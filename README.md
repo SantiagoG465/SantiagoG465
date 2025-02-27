@@ -10,11 +10,11 @@
 ## Listen to my favorite song!
 ![Texto alternativo](https://github.com/user-attachments/assets/ba21281e-9e4f-4136-88b5-2a4c3e509742)
 
-
-[![Spotify Banner](https://i.scdn.co/image/ab67616d0000b273fe2f0212d5c30e1c3b8a82e7)](https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq)
+:green_circle:(https://i.scdn.co/image/ab67616d0000b273fe2f0212d5c30e1c3b8a82e7)](https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SantiagoG465&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SantiagoG465&theme=default&hide_border=false)<br/>
