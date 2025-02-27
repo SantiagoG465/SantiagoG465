@@ -1,7 +1,7 @@
 
 
 # 💫 About Me: 
-👯 I am looking to collaborate on: To collaborate on open source projects, especially those related to web development, data analysis or anything that helps improve programming skills.<br><br>🌱 I'm currently learning: I'm currently learning Python, focusing on data structures, algorithms, developing software.<br><br>💬Ask me about: Ask me about programming best practices, Python beginner tips, or how to approach learning new technologies effectively.<br><br>⚡ Fun fact: Did you know that in Python everything is an object, including functions and even classes? It makes Python incredibly flexible and powerful for developers!
+👯 I’m looking to collaborate on open-source projects, especially those related to web development, data analysis, or anything that helps improve programming skills..<br><br>💬Ask me about: Ask me about programming best practices, Python beginner tips, or how to approach learning new technologies effectively.<br><br>⚡ Fun fact: Did you know that in Python everything is an object, including functions and even classes? It makes Python incredibly flexible and powerful for developers!
 
 
 ## 🌐 Socials:
