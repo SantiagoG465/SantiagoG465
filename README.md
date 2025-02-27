@@ -8,6 +8,8 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santm099@gmail.com) 
 
 ## Listen to my favorite song!
+![Texto alternativo](https://github.com/user-attachments/assets/ba21281e-9e4f-4136-88b5-2a4c3e509742)
+
 
 [![Spotify Banner](https://i.scdn.co/image/ab67616d0000b273fe2f0212d5c30e1c3b8a82e7)](https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq)
 
