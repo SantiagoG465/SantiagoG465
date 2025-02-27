@@ -9,6 +9,16 @@
 
 ## Check out this song!
 
+# My GitHub Profile
+
+## Check out my Spotify!
+[My Spotify Profile](https://open.spotify.com/user/tu_usuario)
+
+## Listen to my favorite song!
+
+[![Spotify Banner](https://i.scdn.co/image/ab67616d0000b273fe2f0212d5c30e1c3b8a82e7)](https://open.spotify.com/track/ID_DE_LA_CANCION)
+
+## Listen to this on Spotify!
 <iframe src="https://open.spotify.com/embed/track/ID_DE_LA_CANCION" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
