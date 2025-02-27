@@ -8,7 +8,9 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santm099@gmail.com) 
 
 ## Check out my favorite song!
-[Song Name](https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq)
+
+[![Spotify Banner](https://i.scdn.co/image/ab67616d0000b273fe2f0212d5c30e1c3b8a82e7)](https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq)
+
 
 
 # 💻 Tech Stack:
