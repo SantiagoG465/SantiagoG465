@@ -7,9 +7,10 @@
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santm099@gmail.com) 
 
-## Check out my favorite song!
+## Check out this song!
 
-[![Spotify Banner](https://i.scdn.co/image/ab67616d0000b273fe2f0212d5c30e1c3b8a82e7)](https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq)
+<iframe src="https://open.spotify.com/embed/track/ID_DE_LA_CANCION" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 
 
 
