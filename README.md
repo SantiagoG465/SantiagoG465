@@ -1,4 +1,3 @@
-[![MasterHead](yhttps://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGt1ZXRhMmhjdzhyam1zbWt0OXM5ZXdwbGlvNTYzeWx6MDVtaGp0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzJGtYzvCs4mNf4zFa/giphy.gif)](https://github.com/SantiagoG465/)
 
 
 # 💫 About Me: 
@@ -7,6 +6,10 @@
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santm099@gmail.com) 
+
+## Check out my favorite song!
+[Song Name](https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq)
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
