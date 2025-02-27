@@ -1,3 +1,4 @@
+![Texto alternativo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGt1ZXRhMmhjdzhyam1zbWt0OXM5ZXdwbGlvNTYzeWx6MDVtaGp0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzJGtYzvCs4mNf4zFa/giphy.gif)
 
 
 # 💫 About Me: 
