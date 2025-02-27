@@ -12,9 +12,6 @@
 
 Welcome to my personal Spotify playlist! 🎶
 
-## Check out my Spotify profile!
-[My Spotify Profile](https://open.spotify.com/user/Santiago Guzman)
-
 ## Listen to my favorite song!
 
 [![Spotify Banner](https://i.scdn.co/image/ab67616d0000b273fe2f0212d5c30e1c3b8a82e7)](https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq)
