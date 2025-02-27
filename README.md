@@ -7,14 +7,21 @@
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santm099@gmail.com) 
 
-## Check out this song!
-
-# Spotify Music Player
 
 ## Listen to my favorite song:
 
-<iframe src="https://open.spotify.com/embed/track/6iaSML1PIYq936g62BDtBq" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Welcome to my personal Spotify playlist! 🎶
 
+## Check out my Spotify profile!
+[My Spotify Profile](https://open.spotify.com/user/tu_usuario)
+
+## Listen to my favorite song!
+
+[![Spotify Banner](https://i.scdn.co/image/ab67616d0000b273fe2f0212d5c30e1c3b8a82e7)](https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq)
+
+## Enjoy the playlist!
+
+<iframe src="https://open.spotify.com/embed/playlist/ID_DE_LA_PLAYLIST" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 # 💻 Tech Stack:
