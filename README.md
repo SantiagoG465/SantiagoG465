@@ -13,7 +13,7 @@
 Welcome to my personal Spotify playlist! 🎶
 
 ## Check out my Spotify profile!
-[My Spotify Profile](https://open.spotify.com/user/tu_usuario)
+[My Spotify Profile](https://open.spotify.com/user/Santiago Guzman)
 
 ## Listen to my favorite song!
 
