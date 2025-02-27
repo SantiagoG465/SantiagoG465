@@ -1,4 +1,4 @@
-![Cool GIF] (https://giphy.com/data-amiga-cga-vzJGtYzvCs4mNf4zFa)
+![Cool GIF](https://giphy.com/data-amiga-cga-vzJGtYzvCs4mNf4zFa)
 
 
 # 💫 About Me: 
