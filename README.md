@@ -3,23 +3,12 @@
 # 💫 About Me: 
 👯 I’m looking to collaborate on open-source projects, especially those related to web development, data analysis, or anything that helps improve programming skills..<br><br>💬 Ask me about programming best practices, Python beginner tips, or how to approach learning new technologies effectively.<br><br>⚡ Fun fact: Did you know that in Python everything is an object, including functions and even classes? It makes Python incredibly flexible and powerful for developers!
 
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santm099@gmail.com) 
-
-
-## Listen to my favorite song:
-
-Welcome to my personal Spotify playlist! 🎶
 
 ## Listen to my favorite song!
 
 [![Spotify Banner](https://i.scdn.co/image/ab67616d0000b273fe2f0212d5c30e1c3b8a82e7)](https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq)
-
-## Enjoy the playlist!
-
-<iframe src="https://open.spotify.com/embed/playlist/ID_DE_LA_PLAYLIST" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
