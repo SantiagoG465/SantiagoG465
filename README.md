@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Santiago Guzman ... and I'm a ..., Colombia ....</p>
+<p align="left">Santiago Guzman ...
 
 ###
 
